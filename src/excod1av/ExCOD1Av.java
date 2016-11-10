@@ -19,7 +19,7 @@ public class ExCOD1Av {
         //Este es el primer comentario
         System.out.println("hola mundo");
         int suma= 1+4;
-        
+        System.out.println("La suma de 1+4 es: "+ suma);
     }
     
 }
