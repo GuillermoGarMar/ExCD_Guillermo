@@ -20,6 +20,8 @@ public class ExCOD1Av {
         System.out.println("hola mundo");
         //este comentario estara en el commit E
         System.out.println("Este es el ultimo comentario del proyecto");
+        int suma= 1+4;
+        System.out.println("La suma de 1+4 es: "+ suma);
     }
     
 }
