@@ -18,6 +18,8 @@ public class ExCOD1Av {
         // TODO code application logic here
         //Este es el primer comentario
         System.out.println("hola mundo");
+        int suma= 1+4;
+        
     }
     
 }
